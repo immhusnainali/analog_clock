@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://th.bing.com/th/id/R.62b9eef2cd9ddc00552599fb022016f8?rik=yPqJqd4IXB7qNg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fImages-Bing-Backgrounds.jpg&ehk=rk5zTnmLHemFqB2TqFwNkk2oRzux74hnSzyVu2cdwVA%3d&risl=&pid=ImgRaw&r=0");
+
+    /* The background image is a square, so we only need to set the width */
+    background-size: 100%;
+
+    /* The background image is a square, so we only need to set the height */
+    background-repeat: no-repeat;
+
+    /* The background image is a square, so we only need to set the height */
+    background-position: center;
+
+    /* The background image is a square, so we only need to set the height */
+    background-attachment: fixed;
+
+   
+  }
+/* Created by MHA*/
+  
